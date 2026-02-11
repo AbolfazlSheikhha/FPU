@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Mazdak\Desktop\Sharif\Tamarin\Computer_Architecture\HW6\Practical\Practical\simulation\qsim
+vCPU
+Z1 !s100 <>cNKoiD?jf5_AP?D73Cz3
+Z2 I6[V`?TlXiQ<mPNWTiZQGR3
+Z3 Vfn[B2lk]QM:N^iFY5hShV3
+Z4 dD:\semester4\ComputerArchitecture\Project\NewProj\Processor\Processor2\Processor2\simulation\qsim
+Z5 w1719631158
+Z6 8HW6.vo
+Z7 FHW6.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|HW6.vo|
+Z10 o-work work -O0
+Z11 n@c@p@u
+!i10b 1
+!s85 0
+Z12 !s108 1719631161.535000
+Z13 !s107 HW6.vo|
+!s101 -O0
+vCPU_vlg_check_tst
+!i10b 1
+!s100 L1ofoSWU:`Vf7OfzjfN5Q1
+IC4@zgNmj4j0:hDL4Z0IgV0
+Z14 V?hg0]PBl4TaZbJd3Zbe5I0
+R4
+Z15 w1719631156
+Z16 8FPADD.vwf.vt
+Z17 FFPADD.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z18 !s108 1719631163.374000
+Z19 !s107 FPADD.vwf.vt|
+Z20 !s90 -work|work|FPADD.vwf.vt|
+!s101 -O0
+R10
+Z21 n@c@p@u_vlg_check_tst
+vCPU_vlg_sample_tst
+!i10b 1
+Z22 !s100 dKW?oRWLG7Lz:1YZC^WVJ3
+Z23 I[bAnFVdQajbmfoDZI]nbg3
+Z24 VNFzV0@RAJ81>lcz71;6CD3
+R4
+R15
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z25 n@c@p@u_vlg_sample_tst
+vCPU_vlg_vec_tst
+!i10b 1
+!s100 IDOia9l8nFIh4]hRKIzBY3
+IO1:00Lfz<A>ORYbj84^lT2
+Z26 VJGhMb3eOK0GJGjGadCX2W1
+R4
+R15
+R16
+R17
+Z27 L0 1699
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z28 n@c@p@u_vlg_vec_tst

@@ -1,0 +1,95 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	000  :   0111000001000000;
+	001  :   0111000010000001;
+	002  :   0111000110000100;
+	003  :   0111000111000011;
+	004  :   0000001111001010;
+	005  :   0000010111010010;
+	[006..008]  :   0000001001001011;
+	[009..00B]  :   0000010010010011;
+	00C  :   0000001010011001;
+	00D  :   0000011110100010;
+	00E  :   1000100000000001;
+	00F  :   0000000000011000;
+	010  :   0110000011000101;
+	011  :   0000010001011001;
+	012  :   0000011110100010;
+	013  :   1000100000000001;
+	014  :   0000000000011010;
+	015  :   0110000011000110;
+	016  :   0111000001000000;
+	017  :   0111000010000001;
+	018  :   0111000111000010;
+	019  :   0000001111001010;
+	01A  :   0000010111010010;
+	[01B..01C]  :   0000001001001000;
+	[01D..01E]  :   0000010010010000;
+	[01F..020]  :   0000110110110011;
+	021  :   0000001110001000;
+	022  :   0000010110010000;
+	023  :   0111000110000100;
+	024  :   0111000011000110;
+	025  :   1000011000000011;
+	026  :   0011011011000001;
+	027  :   0000001001001011;
+	028  :   1000000000111100;
+	029  :   0111000011000101;
+	02A  :   1000011000000011;
+	02B  :   0011011011000001;
+	02C  :   0000010010010011;
+	02D  :   1000000000111100;
+	02E  :   0111000011000000;
+	02F  :   0000011110011010;
+	030  :   0111000100000001;
+	031  :   0000100110100010;
+	032  :   1000011100000010;
+	033  :   0000001010001001;
+	034  :   1000000000000001;
+	035  :   0000001010001000;
+	036  :   0111000010000001;
+	037  :   0111000011000011;
+	038  :   0000010011010010;
+	[039..03B]  :   0000010010010011;   
+	03C  :   0111000011000101;
+	03D  :   0000010011010000;
+	03E  :   0111000011000000;
+	03F  :   0000011110011010;
+	040  :   0000001110100010;
+	041  :   1000100000000010;
+	042  :   0000000001001001;
+	043  :   0000011110011101;
+	044  :   0010010010000010;
+	045  :   0000001110100010;
+	046  :   1001100000000011;
+	047  :   0011010010000001;
+	048  :   0000001001001000;
+	049  :   1000000000111011;
+	04A  :   0000001001001000;
+	[04B..04F]  :   0000001001001011;
+	[050..052]  :   0000010010010000;
+	053  :   0000001010001000;
+	054  :   0000001011001000;
+	[055..0FF]  :   0000000000000000;
+END;
